@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(234, 233, 233);
+    text-align: center;
+    margin-top: 200px;
+}
+
+.div-1 {
+    border: 1px solid black;
+    border-radius: 15px;
+    height: 250px;
+    width: 270px;
+    margin-left: 620px;
+    background-color: aquamarine;
+}
+
+#btn{
+    background-color: blue;
+    color: white;
+    width:200px;
+    height:50px;
+    border-radius:15px;
+    border:black solid 1px;
+    cursor:pointer;
+    margin-top: 15px;
+  }
